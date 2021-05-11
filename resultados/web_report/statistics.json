@@ -1,0 +1,34 @@
+{
+  "ViaCepWS JSON" : {
+    "transaction" : "ViaCepWS JSON",
+    "sampleCount" : 76,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 333.6842105263157,
+    "medianResTime" : 313.5,
+    "minResTime" : 143.0,
+    "maxResTime" : 1163.0,
+    "pct1ResTime" : 565.3,
+    "pct2ResTime" : 692.8499999999971,
+    "pct3ResTime" : 1163.0,
+    "throughput" : 1.3115659407034137,
+    "receivedKBytesPerSec" : 0.9526818341645671,
+    "sentKBytesPerSec" : 0.17291152538570392
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 76,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 333.6842105263157,
+    "medianResTime" : 313.5,
+    "minResTime" : 143.0,
+    "maxResTime" : 1163.0,
+    "pct1ResTime" : 565.3,
+    "pct2ResTime" : 692.8499999999971,
+    "pct3ResTime" : 1163.0,
+    "throughput" : 1.3115659407034137,
+    "receivedKBytesPerSec" : 0.9526818341645671,
+    "sentKBytesPerSec" : 0.17291152538570392
+  }
+}
